@@ -1,6 +1,6 @@
 # Olá, eu sou Kayky Fernandes Gameiro 👋
 
-### Desenvolvedor Python | Cloud Computing | IA aplicada | Dados
+### Desenvolvedor Python | Cloud Computing | IA aplicada 
 
 Sou estudante do último semestre de **Análise e Desenvolvimento de Sistemas** na **FAETERJ-Rio** e atuo como estagiário de tecnologia com foco em **Python e Django**.
 
@@ -29,7 +29,6 @@ Tenho maior interesse em **desenvolvimento Python**, **computação em nuvem** e
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
@@ -46,9 +45,8 @@ Tenho maior interesse em **desenvolvimento Python**, **computação em nuvem** e
 
 ### Outras tecnologias
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
 ---
 
